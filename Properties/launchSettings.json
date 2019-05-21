@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Kontur.LogPacker": {
+      "commandName": "Project",
+      "commandLineArgs": "-d D:\\generated35mb.gz D:\\generated35mb1.log"
+    }
+  }
+}

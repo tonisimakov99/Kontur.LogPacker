@@ -1,0 +1,11 @@
+C:\Kontur.LogPacker-master\Kontur.LogPacker\bin\Release\netcoreapp2.1\Kontur.LogPacker.deps.json
+C:\Kontur.LogPacker-master\Kontur.LogPacker\bin\Release\netcoreapp2.1\Kontur.LogPacker.runtimeconfig.json
+C:\Kontur.LogPacker-master\Kontur.LogPacker\bin\Release\netcoreapp2.1\Kontur.LogPacker.runtimeconfig.dev.json
+C:\Kontur.LogPacker-master\Kontur.LogPacker\bin\Release\netcoreapp2.1\Kontur.LogPacker.dll
+C:\Kontur.LogPacker-master\Kontur.LogPacker\bin\Release\netcoreapp2.1\Kontur.LogPacker.pdb
+C:\Kontur.LogPacker-master\Kontur.LogPacker\obj\Release\netcoreapp2.1\Kontur.LogPacker.csprojAssemblyReference.cache
+C:\Kontur.LogPacker-master\Kontur.LogPacker\obj\Release\netcoreapp2.1\Kontur.LogPacker.csproj.CoreCompileInputs.cache
+C:\Kontur.LogPacker-master\Kontur.LogPacker\obj\Release\netcoreapp2.1\Kontur.LogPacker.AssemblyInfoInputs.cache
+C:\Kontur.LogPacker-master\Kontur.LogPacker\obj\Release\netcoreapp2.1\Kontur.LogPacker.AssemblyInfo.cs
+C:\Kontur.LogPacker-master\Kontur.LogPacker\obj\Release\netcoreapp2.1\Kontur.LogPacker.dll
+C:\Kontur.LogPacker-master\Kontur.LogPacker\obj\Release\netcoreapp2.1\Kontur.LogPacker.pdb
